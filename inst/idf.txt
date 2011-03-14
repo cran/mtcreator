@@ -1,0 +1,54 @@
+[IDF]
+
+Investigation Title
+Experimental Design
+Experimental Design 
+Experimental Design 
+Experimental Factor Name	
+Experimental Factor Type	
+Experimental Factor Term Source REF
+Experimental Factor Term Accession Number
+Person Last Name	
+Person First Name	
+Person Mid Initials	
+Person Email	
+Person Phone
+Person Fax
+Person Address
+Person Affiliation
+Person Roles
+Person Roles Term Source REF
+Person Roles Term Accession Number
+Quality Control Type
+Quality Control Term Source REF
+Quality Control Term Accession Number
+Replicate Type
+Replicate Term Source REF
+Replicate Term Accession Number
+Normalization Type
+Normalization Term Source REF
+Normalization Term Accession Number
+Date of Experiment
+Public Release Date	
+PubMed ID	
+Publication DOI	
+Publication Author List	
+Publication Title	
+Publication Status	
+Publication Status Term Source REF
+Publication Status Term Accession Number
+Experiment Description
+Protocol Name
+Protocol Type
+Protocol Description
+Protocol Parameters
+Protocol Hardware
+Protocol Software	
+Protocol Contact
+Protocol Term Source REF
+Protocol Term Accession Number
+SDRF File
+Term Source Name
+Term Source File
+Term Source Version
+Comment
